@@ -60,6 +60,7 @@ $ cargo test      # runs tests (in parallel by default)
 $ cargo test -- --test-threads=1  # run tests one at a time
 $ cargo test -- --nocapture       # run tests, show output
 $ cargo run --example fundemo -- --argtodemo # run example with argument
+$ cargo fmt       # форматирование кода в соответствии со стандартными правилами 
 ```
 
 ## Mutability basic
