@@ -6,6 +6,14 @@ pedagological mistakes of omission and ordering & etc.
 
 Also note that Rust is still changing quite a bit in 2019-2021 so some of the below may be outdated/deprecated. 
 
+## VSCode plagins
+
+* rust-analyzer
+* CodeLLDB
+* crates (Seray Uzgur)
+* Error Lense
+* Tabnine 
+
 ## Rust in a Nutshell
 
 * Syntax tokens similar to C
